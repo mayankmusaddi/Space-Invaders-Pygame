@@ -3,4 +3,4 @@
 pip3 install pygame
 
 To play
-pytthon3 gameplay.py
+python3 gameplay.py
